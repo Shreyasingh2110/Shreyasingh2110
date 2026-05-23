@@ -91,4 +91,4 @@ Real-time inventory management system with live stock monitoring.
 
 ## 📫 Connect With Me
 - 📧 shreyasinghrajput2110@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/shreya
+- 💼 LinkedIn: www.linkedin.com/in/shreya-singh-20a502316
